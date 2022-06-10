@@ -22,7 +22,7 @@ export default function Home() {
       <div className='mx-auto '>
 
         <p className='box-content h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent mt-28 sm:mr-20 sm:ml-20 font-Rampart'>{"<h1>"}</p>
-        <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto space-x-10 font-mono text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 sm:text-6xl'>Hi,<br />I&apos;am Shankar,<br />Web Developer
+        <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto space-x-10 font-mono text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 sm:text-6xl'>Hi,<br />I&apos;am Shankar,<br/>Web Developer
         </h1>
         <p className='inline-block font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart '>{"</h1>"}</p>
         <p className='box-content h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 mt-7 sm:ml-20 font-Rampart'>{"<p>"}</p>

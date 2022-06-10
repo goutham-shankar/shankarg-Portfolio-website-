@@ -22,9 +22,9 @@ function About() {
                 <p className='box-content mt-4 ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<p>"}</p>
                 <p className='container font-bold text-gray-400 font-Mono'>
 
-                    I create successful responsive websites that are fast, easy href use, and built with best practices. The main area of my expertise is front-end development,HTML,CSS,JS,animations, and coding interactive layouts.
+                    I create successful responsive websites that are fast, easyuse, and built with best practices. The main area of my expertise is front-end development,HTML,CSS,JS,animations, and coding interactive layouts.
 
-                    I also have full-stack developer experience with popular open-source CMS like (WordPress, Drupal, Magenhref, Keyshrefne.js and others) .
+                    I also have full-stack developer experience.
 
                     Visit my <span className=' text-emerald-500'>LinkedIn</span> profile for more details </p>
                 <p className='box-content ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</p>"}</p>
@@ -202,13 +202,16 @@ function About() {
                     Built on <a href='https://code.visualstudio.com/'><span className=' text-emerald-600'>  Visual Studio Code </span></a>
                 </li>
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
-                    Hosted on<a href='https://github.com/'><span className=' text-emerald-600'> Github</span></a>
+                    Hosted on<a href='https://github.com/'><span className=' text-emerald-600'> Vercel</span></a>
                 </li>
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Powered by <a href='https://nextjs.org/'><span className=' text-emerald-600'>Next js</span></a> & <a href='https://tailwindcss.com/'><span className=' text-emerald-600'>Tailwind Css</span></a>
                 </li>
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Set in the beautiful <a href='https://www.monolisa.dev/'><span className=' text-emerald-600'>Monolisa</span></a> typeface
+                </li>
+                <li className='ml-10 font-mono font-semibold text-gray-400'>
+                    Personal Website, <a href='https://www.monolisa.dev/'><span className=' text-emerald-600'>No Trackers</span></a><br />initialized
                 </li>
                 <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</ul>"}</p>
             </ul>
