@@ -8,7 +8,7 @@ function Navbar() {
             <div className="  h-0.5 bg-gradient-to-r from-purple-500 to-pink-500"></div>
             <nav className="px-1 py-2 bg-transparent bg-black rounded sm:px-4 ">
                 <div className="container flex flex-wrap justify-between mx-auto">
-                    <a href="/s" className="flex ">
+                    <a href="/" className="flex ">
                       
 
                         <span className="hidden text-xl font-extrabold float:left sm:block whitespace-nowrap dark:text-white">SG</span>
