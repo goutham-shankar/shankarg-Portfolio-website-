@@ -19,8 +19,7 @@ function MyApp({ Component, pageProps }) {
       <link rel="manifest" href="/manifest.json" />
 
       <html lang='en'></html>
-      <script src="https://kit.fontawesome.com/2241ce253e.js" crossorigin="anonymous"></script>
-
+      
 
     </Head>
 
