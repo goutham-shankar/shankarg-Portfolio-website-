@@ -198,16 +198,16 @@ function About() {
             <ul className='mt-2 list-disc '>
 
                 <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<ul>"}</p>
-                <li className='ml-10 font-mono font-semibold text-gray-300'>
+                <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Built on <a href='https://code.visualstudio.com/'><span className=' text-emerald-600'>  Visual Studio Code </span></a>
                 </li>
-                <li className='ml-10 font-mono font-semibold text-gray-300'>
+                <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Hosted on<a href='https://github.com/'><span className=' text-emerald-600'> Github</span></a>
                 </li>
-                <li className='ml-10 font-mono font-semibold text-gray-300'>
+                <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Powered by <a href='https://nextjs.org/'><span className=' text-emerald-600'>Next js</span></a> & <a href='https://tailwindcss.com/'><span className=' text-emerald-600'>Tailwind Css</span></a>
                 </li>
-                <li className='ml-10 font-mono font-semibold text-gray-300'>
+                <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Set in the beautiful <a href='https://www.monolisa.dev/'><span className=' text-emerald-600'>Monolisa</span></a> typeface
                 </li>
                 <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</ul>"}</p>
