@@ -138,7 +138,7 @@ function Tools() {
           <h2 className='text-3xl font-black text-white font-Mono lg:hidden md:hidden sm:hidden mt-9 sm:ml-20'>Setup</h2>
 
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:hidden sm:ml-20 lg:hidden md:hidden font-Rampart'>{"<p>"}</p>
-          <p className='mt-1 font-bold text-gray-300 font-Mono sm:ml-20 sm:hidden lg:hidden md:hidden'>My primary setup is used to design,code and make awesome stuff</p>
+          <p className='mt-1 font-bold text-gray-400 font-Mono sm:ml-20 sm:hidden lg:hidden md:hidden'>My primary setup is used to design,code and make awesome stuff</p>
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:hidden lg:hidden md:hidden sm:ml-20 font-Rampart'>{"</p>"}</p>
         </div>
         <div className='sm:hidden'>
@@ -207,7 +207,7 @@ function Tools() {
               <h2 className='text-3xl font-black text-white font-Mono lg:hidden md:hidden mt-9 sm:ml-20'>Everyday</h2>
 
               <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 lg:hidden md:hidden font-Rampart'>{"<p>"}</p>
-              <p className='mt-1 font-bold text-gray-300 font-Mono sm:ml-20 lg:hidden md:hidden'>Things that I keep with me</p>
+              <p className='mt-1 font-bold text-gray-400 font-Mono sm:ml-20 lg:hidden md:hidden'>Things that I keep with me</p>
               <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 lg:hidden md:hidden sm:ml-20 font-Rampart'>{"</p>"}</p>
             </div>
             <div className='sm:hidden'>
