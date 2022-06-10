@@ -26,7 +26,7 @@ function About() {
 
                     I also have full-stack developer experience with popular open-source CMS like (WordPress, Drupal, Magenhref, Keyshrefne.js and others) .
 
-                    Visit my <span className=' text-emerald-500'>aedIn</span> profile for more details </p>
+                    Visit my <span className=' text-emerald-500'>LinkedIn</span> profile for more details </p>
                 <p className='box-content ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</p>"}</p>
                 <div className='container ml-5 w-96'>
                     <p className='box-content mt-4 ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<div>"}</p>
@@ -83,7 +83,7 @@ function About() {
                         <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-200 rounded-full -left-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
                             <svg className="w-3 h-3 text-blue-600 dark:text-blue-400" xmlns="http://www.w3.org/2000/svg"><path d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z"></path></svg>
                         </span>
-                        <h3 className="mb-1 text-lg font-semibold text-gray-900 font-Mono dark:text-white">Cushrefmiz</h3>
+                        <h3 className="mb-1 text-lg font-semibold text-gray-900 font-Mono dark:text-white">Customiz</h3>
                         <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Design Engineer 2022-2022</time>
                         <p className="text-base text-gray-500 font-Mono dark:text-gray-300 ">Ui Design</p>
                     </li>
@@ -103,7 +103,7 @@ function About() {
             </div>
 
             <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 mt-22 font-Rampart'>{"<h2>"}</p>
-            <h2 className='inline-block text-3xl font-bold text-white font-Mono'>Languages & hrefols</h2>
+            <h2 className='inline-block text-3xl font-bold text-white font-Mono'>Languages & Tools</h2>
 
             <p className='box-content inline-block ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</h2>"}</p>
             <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<div>"}</p>
