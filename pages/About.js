@@ -28,26 +28,26 @@ function About() {
 
                     Visit my <span className=' text-emerald-500'>LinkedIn</span> profile for more details </p>
                 <p className='box-content ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</p>"}</p>
-                <div className='container ml-5 w-96'>
+                <div className='container w-96'>
                     <p className='box-content mt-4 ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<div>"}</p>
                     <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>Front End</h2>
                     <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
                         <div className="w-4/5 h-1 bg-blue-600 rounded-full" ></div>
                     </div>
                 </div>
-                <div className='container mt-10 ml-5 w-96'>
+                <div className='container mt-10 w-96'>
                     <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>Back End</h2>
                     <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
                         <div className="w-3/5 h-1 bg-red-500 rounded-full" ></div>
                     </div>
                 </div>
-                <div className='container mt-10 ml-5 w-96'>
+                <div className='container mt-10 w-96'>
                     <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>React</h2>
                     <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
                         <div className="w-4/5 h-1 rounded-full bg-violet-600" ></div>
                     </div>
                 </div>
-                <div className='container mt-10 ml-5 w-96'>
+                <div className='container mt-10 w-96'>
                     <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>Next Js</h2>
                     <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
                         <div className="w-4/5 h-1 bg-green-600 rounded-full" ></div>
