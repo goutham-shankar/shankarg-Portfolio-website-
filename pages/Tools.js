@@ -240,7 +240,7 @@ function Tools() {
                       <div className="font-semibold text-white font-Mono">
                         Noise Air Buds +
                       </div>
-                      <div className="text-sm font-semibold text-gray-400 font-Mono">
+                      <div className="text-sm font-bold text-gray-400 font-Mono">
                         For video calls and music
                       </div>
                     </div></div>
