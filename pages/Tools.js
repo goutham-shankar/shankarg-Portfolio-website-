@@ -13,17 +13,17 @@ function Tools() {
           <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto space-x-10 text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 font-Mono sm:text-6xl'>Tools</h1>
           <p className='inline-block font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart '>{"</h1>"}</p>
           <p className='box-content h-auto mt-5 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h2>"}</p>
-          <h2 className='box-content inline-block h-auto space-x-10 text-lg font-bold text-gray-300 bg-transparent sm:mr-20 sm:ml-20 font-Mono'>The products, apps and services I use on a daily basis for work and life.
+          <h2 className='box-content inline-block h-auto mr-2 space-x-10 font-bold text-gray-400 bg-transparent sm:mr-20 sm:ml-20 font-Mono'>The products, apps and services I use on a daily basis for work and life.
           </h2>
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"</h2>"}</p>
         </div>
-        <div className="  h-0.5 mt-2  sm:ml-10  mr-9 bg-gray-600 container"></div>
+        
         <div>
 
-          <h2 className='text-3xl font-black text-white font-Mono mt-28 sm:ml-20'>Apps & services</h2>
+          <h2 className='mt-5 text-3xl font-black text-white font-Mono sm:ml-20'>Apps & services</h2>
 
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<p>"}</p>
-          <p className='mt-1 font-bold text-gray-300 font-Mono sm:ml-20'>Some of the apps & services I use to get work done and keep track of my personal life</p>
+          <p className='mt-1 mr-2 font-bold text-gray-400 font-Mono sm:ml-20'>Some of the apps & services I use to get work done and keep track of my personal life</p>
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"</p>"}</p>
 
         </div>
