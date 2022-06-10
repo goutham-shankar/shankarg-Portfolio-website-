@@ -8,13 +8,13 @@ function Navbar() {
             <div className="  h-0.5 bg-gradient-to-r from-purple-500 to-pink-500"></div>
             <nav className="px-1 py-2 bg-transparent bg-black rounded sm:px-4 ">
                 <div className="container flex flex-wrap justify-between mx-auto">
-                    <Link href="/" className="flex ">
+                    <div className="flex ">
                       
 
                         <span className="hidden text-xl font-extrabold float:left sm:block whitespace-nowrap dark:text-white">SG</span>
                         <span className="visible mt-3 ml-3 text-xl font-extrabold sm:hidden whitespace-nowrap dark:text-gray-50">SG</span>
 
-                    </Link>
+                    </div>
 
 
 
