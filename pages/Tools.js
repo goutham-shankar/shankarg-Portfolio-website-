@@ -9,14 +9,14 @@ function Tools() {
       <div className='container '>
         <div className='container mx-auto '>
 
-          <p className='box-content h-auto mt-12 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h1>"}</p>
+          <p className='box-content h-auto mt-12 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h2>"}</p>
           <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto ml-5 space-x-10 text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 font-Mono sm:text-6xl'>Tools</h1>
-          <p className='inline-block font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart '>{"</h1>"}</p>
+          <p className='inline-block font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart '>{"</h2>"}</p>
           <div className='ml-5'>
-          <p className='box-content h-auto mt-5 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h2>"}</p>
+          <p className='box-content h-auto mt-5 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<p>"}</p>
           <h2 className='box-content inline-block h-auto ml-5 mr-2 space-x-10 font-bold text-gray-400 bg-transparent sm:mr-20 sm:ml-20 font-Mono'>The products, apps and services I use on a daily basis for work and life.
           </h2>
-          <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"</h2>"}</p>
+          <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"</p>"}</p>
         </div></div>
         
         <div className='ml-5'>
@@ -205,7 +205,7 @@ function Tools() {
 
             <div className='ml-5'>
 
-              <h2 className='text-3xl font-black text-white  font-Mono lg:hidden md:hidden mt-9 sm:ml-20'>Everyday</h2>
+              <h2 className='text-3xl font-black text-white font-Mono lg:hidden md:hidden mt-9 sm:ml-20'>Everyday</h2>
 
               <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 lg:hidden md:hidden font-Rampart'>{"<p>"}</p>
               <p className='mt-1 font-bold text-gray-400 font-Mono sm:ml-20 lg:hidden md:hidden'>Things that I keep with me</p>
