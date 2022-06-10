@@ -103,7 +103,7 @@ function About() {
             </div>
 
             <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 mt-22 font-Rampart'>{"<h2>"}</p>
-            <h2 className='inline-block text-3xl font-bold text-white font-Mono'>Languages & Tools</h2>
+            <h2 className='inline-block text-3xl font-bold text-white font-Mono'>Languages & Tech</h2>
 
             <p className='box-content inline-block ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</h2>"}</p>
             <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<div>"}</p>
