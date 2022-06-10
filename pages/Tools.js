@@ -6,19 +6,20 @@ function Tools() {
     <>        <Head>
       <title>Tools - Shankar</title>
     </Head>
-      <div className='container ml-2 '>
+      <div className='container '>
         <div className='container mx-auto '>
 
           <p className='box-content h-auto mt-12 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h1>"}</p>
-          <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto space-x-10 text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 font-Mono sm:text-6xl'>Tools</h1>
+          <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto ml-5 space-x-10 text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 font-Mono sm:text-6xl'>Tools</h1>
           <p className='inline-block font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart '>{"</h1>"}</p>
+          <div className='ml-5'>
           <p className='box-content h-auto mt-5 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h2>"}</p>
-          <h2 className='box-content inline-block h-auto mr-2 space-x-10 font-bold text-gray-400 bg-transparent sm:mr-20 sm:ml-20 font-Mono'>The products, apps and services I use on a daily basis for work and life.
+          <h2 className='box-content inline-block h-auto ml-5 mr-2 space-x-10 font-bold text-gray-400 bg-transparent sm:mr-20 sm:ml-20 font-Mono'>The products, apps and services I use on a daily basis for work and life.
           </h2>
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"</h2>"}</p>
-        </div>
+        </div></div>
         
-        <div>
+        <div className='ml-5'>
 
           <h2 className='mt-5 text-3xl font-black text-white font-Mono sm:ml-20'>Apps & services</h2>
 
@@ -135,11 +136,11 @@ function Tools() {
         </div>
         <div>
 
-          <h2 className='text-3xl font-black text-white font-Mono lg:hidden md:hidden sm:hidden mt-9 sm:ml-20'>Setup</h2>
+          <h2 className='ml-5 text-3xl font-black text-white font-Mono lg:hidden md:hidden sm:hidden mt-9 sm:ml-20'>Setup</h2>
 
-          <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:hidden sm:ml-20 lg:hidden md:hidden font-Rampart'>{"<p>"}</p>
-          <p className='mt-1 font-bold text-gray-400 font-Mono sm:ml-20 sm:hidden lg:hidden md:hidden'>My primary setup is used to design,code and make awesome stuff</p>
-          <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:hidden lg:hidden md:hidden sm:ml-20 font-Rampart'>{"</p>"}</p>
+          <p className='box-content inline-block h-auto ml-5 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:hidden sm:ml-20 lg:hidden md:hidden font-Rampart'>{"<p>"}</p>
+          <p className='mt-1 ml-5 font-bold text-gray-400 font-Mono sm:ml-20 sm:hidden lg:hidden md:hidden'>My primary setup is used to design,code and make awesome stuff</p>
+          <p className='box-content inline-block h-auto ml-5 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:hidden lg:hidden md:hidden sm:ml-20 font-Rampart'>{"</p>"}</p>
         </div>
         <div className='sm:hidden'>
           <div className="container flex-col items-center justify-center max-w-sm mx-auto space-y-4 sm:float-center">
@@ -202,9 +203,9 @@ function Tools() {
             </div>
 
 
-            <div>
+            <div className='ml-5'>
 
-              <h2 className='text-3xl font-black text-white font-Mono lg:hidden md:hidden mt-9 sm:ml-20'>Everyday</h2>
+              <h2 className='text-3xl font-black text-white  font-Mono lg:hidden md:hidden mt-9 sm:ml-20'>Everyday</h2>
 
               <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 lg:hidden md:hidden font-Rampart'>{"<p>"}</p>
               <p className='mt-1 font-bold text-gray-400 font-Mono sm:ml-20 lg:hidden md:hidden'>Things that I keep with me</p>
