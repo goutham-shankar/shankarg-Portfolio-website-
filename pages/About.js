@@ -13,7 +13,7 @@ function About() {
                 <h2 className='inline-block text-3xl font-bold text-white font-Mono'>About</h2>
                 <p className='box-content inline-block ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</h2>"}</p>
                 <p className='box-content mt-4 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<p>"}</p>
-                <h2 className='container font-bold text-gray-400 font-Mono'>I &apos; m Shankar a Indian based product designer with over 2 years of experience. I specialise in interface design for mobile and web-based applications with a focus on simplicity & usability. I’m passionate about design and technology and how the two can converge href create experiences for good.</h2>
+                <h2 className='container font-bold text-gray-400 font-Mono'>I &apos; m Shankar a Indian based product designer with over 2 years of experience. I specialise in interface design for mobile and web-based applications with a focus on simplicity & usability. I &apos; m passionate about design and technology and how the two can converge href create experiences for good.</h2>
                 <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</p>"}</p>
                 <p className='box-content mt-10 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<h2>"}</p>
                 <h1 className='text-3xl font-bold text-white font-Mono'>Skills &
@@ -67,7 +67,7 @@ function About() {
                         </span>
                         <h3 className="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white font-Mono">Riseon Innovations <span className="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">Latest</span></h3>
                         <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Co-Founder & Tech Lead 2022-</time>
-                        <p className="mb-4 text-base text-gray-500 font-Mono dark:text-gray-300">Focusing on Defi apps, NFT's, Blockchain Technology and The future Of Cryphref currency </p>
+                        <p className="mb-4 text-base text-gray-500 font-Mono dark:text-gray-300">Focusing on Defi apps, NFT &apos;s, Blockchain Technology and The future Of Cryphref currency </p>
 
                     </li>
                     <li className="mb-10 ml-6">
