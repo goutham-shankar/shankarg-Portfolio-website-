@@ -21,16 +21,16 @@ function Navbar() {
                     <div className="mt-1 " id="mobile-menu-4">
                         <ul className="flex md:flex-row md:space-x-8 md:text-sm md:font-medium">
                             <li>
-                                <a href="/w" className="block py-2 pl-3 pr-4 font-extrabold text-gray-100 rounded-sm font-Mono md:bg-transparent md:p-0 dark:text-gray-400 hover:text-white">Home</a>
+                                <Link href="/"><span className='block py-2 pl-3 pr-4 font-extrabold text-gray-100 rounded-sm hover:cursor-pointer font-Mono md:bg-transparent md:p-0 dark:text-gray-400 hover:text-white'>Home</span></Link>
                             </li>
                             <li>
-                                <Link href="/About"   className="block py-2 pl-3 pr-4 font-extrabold text-gray-100 border-gray-100 rounded-sm font-Mono hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700" aria-current="page">About</Link>
+                            <Link href="/About"><span className='block py-2 pl-3 pr-4 font-extrabold text-gray-100 rounded-sm hover:cursor-pointer font-Mono md:bg-transparent md:p-0 dark:text-gray-400 hover:text-white'>About</span></Link>
                             </li>
                             <li>
-                                <Link href="/Tools" className="block py-2 pl-3 pr-4 font-extrabold text-gray-100 border-gray-100 rounded-sm font-Mono hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent active:text-white dark:border-gray-700 " aria-current="page">Tools</Link>
+                            <Link href="/Tools" ><span className='block py-2 pl-3 pr-4 font-extrabold text-gray-100 rounded-sm hover:cursor-pointer font-Mono md:bg-transparent md:p-0 dark:text-gray-400 hover:text-white'>Tools</span></Link>
                             </li>
                             <li>
-                                <Link href="/Projects" className="block py-2 pl-3 pr-4 font-extrabold text-gray-100 border-gray-100 rounded-sm font-Mono hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 md:dark:hover:text-white dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">Projects</Link>
+                            <Link href="/Projects" ><span className='block py-2 pl-3 pr-4 font-extrabold text-gray-100 rounded-sm hover:cursor-pointer font-Mono md:bg-transparent md:p-0 dark:text-gray-400 hover:text-white'>Projects</span></Link>
                             </li>
                         </ul>
                     </div>
