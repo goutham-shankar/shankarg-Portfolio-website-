@@ -1,5 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
+import Link from 'next/link'
 function Tools() {
   return (
     <>        <Head>
@@ -9,17 +10,17 @@ function Tools() {
         <div className='container mx-auto '>
 
           <p className='box-content h-auto mt-12 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h1>"}</p>
-          <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto space-x-10 text-5xl font-extrabold text-white bg-transparent  sm:mr-20 sm:ml-20 font-Mono sm:text-6xl'>Tools</h1>
+          <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto space-x-10 text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 font-Mono sm:text-6xl'>Tools</h1>
           <p className='inline-block font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart '>{"</h1>"}</p>
           <p className='box-content h-auto mt-5 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h2>"}</p>
-          <h2 className='box-content inline-block h-auto space-x-10 text-lg font-bold text-gray-300 bg-transparent  sm:mr-20 sm:ml-20 font-Mono'>The products, apps and services I use on a daily basis for work and life.
+          <h2 className='box-content inline-block h-auto space-x-10 text-lg font-bold text-gray-300 bg-transparent sm:mr-20 sm:ml-20 font-Mono'>The products, apps and services I use on a daily basis for work and life.
           </h2>
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"</h2>"}</p>
         </div>
         <div className="  h-0.5 mt-2  sm:ml-10  mr-9 bg-gray-600 container"></div>
         <div>
 
-          <h2 className='text-3xl font-black text-white  font-Mono mt-28 sm:ml-20'>Apps & services</h2>
+          <h2 className='text-3xl font-black text-white font-Mono mt-28 sm:ml-20'>Apps & services</h2>
 
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<p>"}</p>
           <p className='mt-1 font-bold text-gray-300 font-Mono sm:ml-20'>Some of the apps & services I use to get work done and keep track of my personal life</p>
@@ -134,7 +135,7 @@ function Tools() {
         </div>
         <div>
 
-          <h2 className='text-3xl font-black text-white  font-Mono lg:hidden md:hidden sm:hidden mt-9 sm:ml-20'>Setup</h2>
+          <h2 className='text-3xl font-black text-white font-Mono lg:hidden md:hidden sm:hidden mt-9 sm:ml-20'>Setup</h2>
 
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:hidden sm:ml-20 lg:hidden md:hidden font-Rampart'>{"<p>"}</p>
           <p className='mt-1 font-bold text-gray-300 font-Mono sm:ml-20 sm:hidden lg:hidden md:hidden'>My primary setup is used to design,code and make awesome stuff</p>
@@ -150,7 +151,7 @@ function Tools() {
               </div>
               <div className="flex-grow p-3">
                 <div className="font-semibold text-white font-Mono ">
-                  Dell Vostro 13"
+                  Dell Vostro 13&apos;&apos;
                 </div>
                 <div className="mt-2 text-sm font-semibold text-gray-400 font-Mono">
                   12GB RAM, 1TB SSD
@@ -203,7 +204,7 @@ function Tools() {
 
             <div>
 
-              <h2 className='text-3xl font-black text-white  font-Mono lg:hidden md:hidden mt-9 sm:ml-20'>Everyday</h2>
+              <h2 className='text-3xl font-black text-white font-Mono lg:hidden md:hidden mt-9 sm:ml-20'>Everyday</h2>
 
               <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 lg:hidden md:hidden font-Rampart'>{"<p>"}</p>
               <p className='mt-1 font-bold text-gray-300 font-Mono sm:ml-20 lg:hidden md:hidden'>Things that I keep with me</p>
@@ -261,7 +262,7 @@ function Tools() {
 
         </div>
 
-        <h2 className='mt-10 font-bold text-gray-400 font-Mono sm:hidden' ><span className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<p>"}</span> <br></br> Feel free to check out my <a href='/Projects'><span className=' text-emerald-500'>Projects</span></a></h2>
+        <h2 className='mt-10 font-bold text-gray-400 font-Mono sm:hidden' ><span className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<p>"}</span> <br></br> Feel free to check out my <Link href='/Projects'><span className=' text-emerald-500'>Projects</span></Link></h2>
         <p className='box-content h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:hidden font-Rampart'>{"<p>"}</p>
 
 
@@ -276,7 +277,7 @@ function Tools() {
 
 
 
-        <div className='content-start hidden grid-cols-3 ml-20  sm:block xl:ml-52'>
+        <div className='content-start hidden grid-cols-3 ml-20 sm:block xl:ml-52'>
 
 
           <div className="h-56 grid grid-cols-3 gap-2 content-start ...">
@@ -401,7 +402,7 @@ function Tools() {
           </div>
           <div>
 
-            <h2 className='text-3xl font-black text-white  font-Mono mt-96'>Setup</h2>
+            <h2 className='text-3xl font-black text-white font-Mono mt-96'>Setup</h2>
 
             <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<p>"}</p>
             <p className='mt-1 font-semibold text-gray-300 font-Mono'>My primary setup used to design, code and make awesome stuff</p>
@@ -417,7 +418,7 @@ function Tools() {
                 </a>
               </div>
               <div className="py-5 px-7 mt-7">
-                <div className="text-xl font-bold text-white font-Mono ">Dell Vostro 13"</div>
+                <div className="text-xl font-bold text-white font-Mono ">Dell Vostro 13&apos;&apos;</div>
                 <p className="mt-5 font-semibold text-gray-400 font-Mono">
                   12GB RAM, 1TB SSD
                 </p>
@@ -461,7 +462,7 @@ function Tools() {
           </div>
           <div>
 
-            <h2 className='mt-32 text-3xl font-black text-white  font-Mono'>Everyday</h2>
+            <h2 className='mt-32 text-3xl font-black text-white font-Mono'>Everyday</h2>
 
             <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<p>"}</p>
             <p className='mt-1 font-semibold text-gray-300 font-Mono'>Things that I keep with me</p>
@@ -504,7 +505,7 @@ function Tools() {
               </div>
             </div>
           </div>
-          <h2 className='text-gray-400 font-Mono mt-28' ><span className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<p>"}</span> <br></br><span className='font-semibold font-Mono'>Feel free to check out my </span><a href='/Projects'><span className='font-mono font-bold  text-emerald-500'>Projects</span></a></h2>
+          <h2 className='text-gray-400 font-Mono mt-28' ><span className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<p>"}</span> <br></br><span className='font-semibold font-Mono'>Feel free to check out my </span><Link href='/Projects'><span className='font-mono font-bold text-emerald-500'>Projects</span></Link></h2>
           <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<p>"}</p>
 
 
