@@ -262,7 +262,7 @@ function Tools() {
 
         </div>
 
-        <h2 className='mt-10 font-bold text-gray-400 font-Mono sm:hidden' ><span className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<p>"}</span> <br></br> Feel free to check out my <Link href='/Projects'><span className=' text-emerald-500'>Projects</span></Link></h2>
+        <h2 className='mt-10 font-bold text-gray-400 font-Mono sm:hidden' ><span className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<p>"}</span> <br></br> Feel free to check out my <Link href='/Projects'><span className=' text-emerald-500 hover:cursor-pointer'>Projects</span></Link></h2>
         <p className='box-content h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:hidden font-Rampart'>{"<p>"}</p>
 
 
