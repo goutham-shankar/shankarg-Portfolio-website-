@@ -30,26 +30,26 @@ function About() {
                 <div className='container ml-5 w-96'>
                     <p className='box-content h-auto mt-4 ml-4 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<div>"}</p>
                     <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>Front End</h2>
-                    <div class="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                        <div class="bg-blue-600 h-1 rounded-full  w-4/5" ></div>
+                    <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
+                        <div className="w-4/5 h-1 bg-blue-600 rounded-full" ></div>
                     </div>
                 </div>
                 <div className='container mt-10 ml-5 w-96'>
                     <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>Back End</h2>
-                    <div class="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                        <div class="bg-red-500 h-1 rounded-full  w-3/5" ></div>
+                    <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
+                        <div className="w-3/5 h-1 bg-red-500 rounded-full" ></div>
                     </div>
                 </div>
                 <div className='container mt-10 ml-5 w-96'>
                     <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>React</h2>
-                    <div class="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                        <div class=" bg-violet-600 h-1 rounded-full  w-4/5" ></div>
+                    <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
+                        <div className="w-4/5 h-1 rounded-full  bg-violet-600" ></div>
                     </div>
                 </div>
                 <div className='container mt-10 ml-5 w-96'>
                     <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>Next Js</h2>
-                    <div class="w-full bg-gray-200 rounded-full h-1 dark:bg-gray-700">
-                        <div class="bg-green-600 h-1 rounded-full  w-4/5" ></div>
+                    <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
+                        <div className="w-4/5 h-1 bg-green-600 rounded-full" ></div>
                     </div>
                 </div>
                 <p className='box-content h-auto mt-4 ml-4 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"</div>"}</p>
@@ -59,32 +59,32 @@ function About() {
             <h2 className='inline-block text-3xl font-bold text-white font-Mono'>Work</h2>
             <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"</h2>"}</p>
             <div className='mt-5 sm:ml-12'>
-                <ol class="relative border-l border-gray-200 dark:border-gray-700">
-                    <li class="mb-10 ml-6">
-                        <span class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
-                            <svg class="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
+                <ol className="relative border-l border-gray-200 dark:border-gray-700">
+                    <li className="mb-10 ml-6">
+                        <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-200 rounded-full -left-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
+                            <svg className="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
                         </span>
-                        <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white font-Mono">Riseon Innovations <span class="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">Latest</span></h3>
-                        <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Co-Founder & Tech Lead 2022-</time>
-                        <p class="mb-4 text-base font-Mono text-gray-500 dark:text-gray-300">Focusing on Defi apps, NFT's, Blockchain Technology and The future Of Crypto currency </p>
+                        <h3 className="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white font-Mono">Riseon Innovations <span className="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">Latest</span></h3>
+                        <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Co-Founder & Tech Lead 2022-</time>
+                        <p className="mb-4 text-base text-gray-500 font-Mono dark:text-gray-300">Focusing on Defi apps, NFT's, Blockchain Technology and The future Of Crypto currency </p>
 
                     </li>
-                    <li class="mb-10 ml-6">
-                        <span class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
-                            <svg class="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
+                    <li className="mb-10 ml-6">
+                        <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-200 rounded-full -left-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
+                            <svg className="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
                         </span>
-                        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white font-Mono">Flogesoft</h3>
-                        <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Front End Web Developer Trainee 2022-2022</time>
-                        <p class="text-base font-medium  font-Mono text-gray-200 dark:text-gray-300 ">
+                        <h3 className="mb-1 text-lg font-semibold text-gray-900 dark:text-white font-Mono">Flogesoft</h3>
+                        <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Front End Web Developer Trainee 2022-2022</time>
+                        <p className="text-base font-medium text-gray-200 font-Mono dark:text-gray-300 ">
                             Building & modifying Front end  of Web apps built on Next js and Tailwind css</p>
                     </li>
-                    <li class="mb-10 ml-6">
-                        <span class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
-                            <svg class="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
+                    <li className="mb-10 ml-6">
+                        <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-200 rounded-full -left-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
+                            <svg className="w-3 h-3 text-blue-600 dark:text-blue-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"></path></svg>
                         </span>
-                        <h3 class="mb-1 text-lg font-semibold font-Mono text-gray-900 dark:text-white">Customiz</h3>
-                        <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Design Engineer 2022-2022</time>
-                        <p class="text-base font-Mono  text-gray-500 dark:text-gray-300 ">Ui Design</p>
+                        <h3 className="mb-1 text-lg font-semibold text-gray-900 font-Mono dark:text-white">Customiz</h3>
+                        <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Design Engineer 2022-2022</time>
+                        <p className="text-base text-gray-500 font-Mono dark:text-gray-300 ">Ui Design</p>
                     </li>
                 </ol>
 
@@ -106,7 +106,7 @@ function About() {
 
             <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"</h2>"}</p>
             <p className='box-content h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart'>{"<div>"}</p>
-            <div class="h-56 grid grid-cols-4 gap-1 mt-10  content-center ...">
+            <div className="h-56 grid grid-cols-4 gap-1 mt-10  content-center ...">
                 <div className='py-2 border-white '>
                     <a href=''>
                         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="My profile" className="object-cover w-20 h-20 ml-2 sm:ml-20 rounded-xl "></img>
