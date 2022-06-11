@@ -26,7 +26,7 @@ function About() {
 
                     I also have full-stack developer experience.
 
-                    Visit my <span className=' text-emerald-500'>LinkedIn</span> profile for more details </p>
+                    
                 <p className='box-content ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</p>"}</p>
                 <div className='container w-96'>
                     <p className='box-content mt-4 ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<div>"}</p>
