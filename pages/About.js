@@ -213,10 +213,11 @@ function About() {
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Personal Website, <span className=' text-emerald-600'>No Trackers</span><br />initialized
                 </li>
-                <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</ul>"}</p>
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Website is Upto date as of <span className=' text-emerald-600'>June 2022</span>
                 </li>
+                <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</ul>"}</p>
+
             </ul>
         </div></>
     )
