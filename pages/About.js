@@ -211,9 +211,12 @@ function About() {
                     Set in the beautiful <a href='https://www.monolisa.dev/'><span className=' text-emerald-600'>Monolisa</span></a> typeface
                 </li>
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
-                    Personal Website, <a href='https://www.monolisa.dev/'><span className=' text-emerald-600'>No Trackers</span></a><br />initialized
+                    Personal Website, <span className=' text-emerald-600'>No Trackers</span><br />initialized
                 </li>
                 <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</ul>"}</p>
+                <li className='ml-10 font-mono font-semibold text-gray-400'>
+                    Website is Upto date as of <span className=' text-emerald-600'>June 2022</span>
+                </li>
             </ul>
         </div></>
     )
