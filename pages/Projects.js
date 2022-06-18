@@ -18,8 +18,8 @@ function Projects({ posts }) {
         </div>
         <div className="h-50   ml-10  sm:ml-20 grid-cols-1   sm:grid-col-3   sm:flex gap-2 content-start ...">
             {posts.map((post) => (
-                <div className="max-w-sm mt-5 border border-gray-200 rounded-lg shadow-md dark:border-gray-300">
-                    <a href={post.projectLink}>
+                <div key={post.projectLink} className="max-w-sm mt-5 border border-gray-200 rounded-lg shadow-md dark:border-gray-300">
+                    <a href={post.projectLink} > 
                         <img className="rounded-t-lg" src={post.photo.url} alt="" />
                     </a>
 
