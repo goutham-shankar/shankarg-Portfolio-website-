@@ -4,9 +4,6 @@ import { getPosts } from '../Services/index'
 
 function Projects({ posts }) {
     return (<>
-        <Head>
-            <title>Projects - Shankar</title>
-        </Head>
         <div className='mt-12 ml-7 sm:ml-24 sm:mr-36'>
 
             <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<h2>"}</p>
@@ -20,7 +17,7 @@ function Projects({ posts }) {
             {posts.map((post) => (
                 <div key={post.projectLink} className="max-w-sm mt-5 border border-gray-200 rounded-lg shadow-md dark:border-gray-300">
                     <a href={post.projectLink} >
-                        <img className="rounded-t-lg" src={post.photo.url} alt="" />
+                        <img className="rounded-t-lg " src={post.photo.url} alt="" />
                     </a>
                     <div className="p-5">
                         <a href={post.projectLink}>

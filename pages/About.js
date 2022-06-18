@@ -3,9 +3,7 @@ import Head from 'next/head'
 import img from 'next/image'
 function About() {
     return (<>
-        <Head>
-            <title>About - Shankar</title>
-        </Head>
+
 
         <div className='ml-5 mr-1 sm:ml-28'  >
             <div className='mt-12 sm:mr-36'>

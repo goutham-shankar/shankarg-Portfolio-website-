@@ -3,9 +3,7 @@ import Head from 'next/head'
 import Link from 'next/link'
 function Tools() {
   return (
-    <>        <Head>
-      <title>Tools - Shankar</title>
-    </Head>
+    <>
       <div className='container '>
         <div className='container mx-auto '>
 
