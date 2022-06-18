@@ -19,17 +19,16 @@ function Projects({ posts }) {
         <div className="h-50   ml-10  sm:ml-20 grid-cols-1   sm:grid-col-3   sm:flex gap-2 content-start ...">
             {posts.map((post) => (
                 <div key={post.projectLink} className="max-w-sm mt-5 border border-gray-200 rounded-lg shadow-md dark:border-gray-300">
-                    <a href={post.projectLink} > 
+                    <a href={post.projectLink} >
                         <img className="rounded-t-lg" src={post.photo.url} alt="" />
                     </a>
-
                     <div className="p-5">
-                    <a href={post.projectLink}>
+                        <a href={post.projectLink}>
                             <h5 className="mb-2 ml-20 text-2xl font-bold tracking-tight text-gray-900 font-Mono dark:text-white">{post.title}</h5>
-                            </a>
+                        </a>
                         <p className="mb-3 font-bold text-center text-gray-400 font-Mono dark:text-gray-400">{post.excerpt}
                         </p>
-                        <p className='font-semibold text-Mono dark:text-gray-400'> {post.content.text}</p>
+                        <p className='font-semibold text-Mono dark:text-gray-400'>{post.content.text}</p>
 
                     </div>
                 </div>
