@@ -208,6 +208,9 @@ function About() {
                     Powered by <a href='https://nextjs.org/'><span className=' text-emerald-600'>Next js</span></a> & <a href='https://tailwindcss.com/'><span className=' text-emerald-600'>Tailwind Css</span></a>
                 </li>
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
+                    Backed up by <span className=' text-emerald-600'>Graph CMS</span>
+                </li>
+                <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Set in the beautiful <a href='https://www.monolisa.dev/'><span className=' text-emerald-600'>Monolisa</span></a> typeface
                 </li>
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
@@ -216,6 +219,7 @@ function About() {
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
                     Website is Upto date as of <span className=' text-emerald-600'>June 2022</span>
                 </li>
+              
                 <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</ul>"}</p>
 
             </ul>
