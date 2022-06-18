@@ -14,7 +14,6 @@ function Projects({ posts }) {
             <p className='box-content mt-4 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<p>"}</p>
             <h2 className='container font-bold text-gray-400 sm:ml-2 font-Mono'>Some of my best Projects</h2>
             <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</p>"}</p>
-
         </div>
         <div className="h-50   ml-10  sm:ml-20 grid-cols-1   sm:grid-col-3   sm:flex gap-2 content-start ...">
             {posts.map((post) => (
@@ -45,7 +44,7 @@ function Projects({ posts }) {
     )
 }
 
-export default Projects
+export default Projects 
 
 
 export async function getStaticProps() {
