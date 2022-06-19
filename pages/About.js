@@ -65,7 +65,7 @@ function About() {
                         </span>
                         <h3 className="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white font-Mono">Riseon Innovations <span className="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">Latest</span></h3>
                         <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Co-Founder & Tech Lead 2022-</time>
-                        <p className="mb-4 text-base text-gray-500 font-Mono dark:text-gray-300">Focusing on Defi apps, NFT &apos;s, Blockchain Technology and The future Of Cryphref currency </p>
+                        <p className="mb-4 text-base text-gray-500 font-Mono dark:text-gray-300">Focusing on Defi apps, NFT &apos;s, Blockchain Technology and The future Of Crypto currency </p>
 
                     </li>
                     <li className="mb-10 ml-6">

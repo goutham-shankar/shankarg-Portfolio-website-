@@ -13,7 +13,7 @@ function Projects({ posts }) {
             <h2 className='container font-bold text-gray-400 sm:ml-2 font-Mono'>Some of my best Projects</h2>
             <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</p>"}</p>
         </div>
-        <div className="h-50   ml-5  sm:ml-20 grid-cols-1   sm:grid-col-3   sm:flex gap-2 content-start ...">
+        <div className="content-center gap-5 ml-5 grid-cols- h-50 sm:ml-20 sm:grid-col-2 sm:flex">
             {posts.map((post) => (
                 <div key={post.projectLink} className="max-w-sm mt-5 border border-gray-200 rounded-lg shadow-md dark:border-gray-300">
                     <a href={post.projectLink} >
@@ -42,7 +42,7 @@ function Projects({ posts }) {
     )
 }
 
-export default Projects 
+export default Projects
 
 
 export async function getStaticProps() {
@@ -51,6 +51,6 @@ export async function getStaticProps() {
     return {
         props: { posts },
         revalidate: 5,
-      
+
     }
 }
