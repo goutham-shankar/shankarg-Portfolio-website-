@@ -8,9 +8,11 @@ import {
   faLinkedin,
   faDribbble,
 
+
 } from "@fortawesome/free-brands-svg-icons";
 import {
-  faEnvelope
+  faEnvelope,
+  faDownload,
 } from "@fortawesome/free-solid-svg-icons";
 
 export default function Home() {
@@ -18,7 +20,7 @@ export default function Home() {
     <div >
       <div className='mx-auto '>
 
-        <p className='box-content h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent mt-28 sm:mr-20 sm:ml-20 font-Rampart'>{"<h1>"}</p>
+        <p className='box-content h-auto mt-20 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h1>"}</p>
         <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto space-x-10 font-mono text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 sm:text-6xl'>Hi,<br />I&apos;am Shankar,<br />Web Developer
         </h1>
         <p className='inline-block font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart '>{"</h1>"}</p>
@@ -59,9 +61,16 @@ export default function Home() {
 
 
             </div><p className='box-content inline-block h-auto ml-5 space-x-10 text-lg font-semibold text-gray-500 bg-transparent sm:mr-10 font-Rampart sm:ml-20'> {"</social>"}</p>
+            <button className="px-5 py-4 mt-5 ml-20 text-white bg-blue-500 rounded-lg font-Mono col md:ml-20 md:block"><a className="text-white " href="https://drive.google.com/file/d/1hxO86qy4rDFn7l46qsQFpZiDwl9pc9oa/view?usp=sharing">Download resume</a> &nbsp;
+              <FontAwesomeIcon
+
+                icon={faDownload}
+                style={{ fontSize: 20, color: "white", }}
+
+              />
+            </button>
 
           </div>
-
 
 
         </div>
