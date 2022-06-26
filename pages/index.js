@@ -61,7 +61,7 @@ export default function Home() {
 
 
             </div><p className='box-content inline-block h-auto ml-5 space-x-10 text-lg font-semibold text-gray-500 bg-transparent sm:mr-10 font-Rampart sm:ml-20'> {"</social>"}</p>
-            <button className="px-5 py-4 mt-5 ml-20 text-white bg-blue-500 rounded-lg font-Mono col md:ml-20 md:block"><a className="text-white " href="https://drive.google.com/file/d/1hxO86qy4rDFn7l46qsQFpZiDwl9pc9oa/view?usp=sharing">Download resume</a> &nbsp;
+            <button className="px-5 py-4 mt-5 text-white bg-blue-500 rounded-lg font-Mono col md:ml-20 md:block"><a className="text-white " href="https://drive.google.com/file/d/1hxO86qy4rDFn7l46qsQFpZiDwl9pc9oa/view?usp=sharing">Download resume</a> &nbsp;
               <FontAwesomeIcon
 
                 icon={faDownload}
