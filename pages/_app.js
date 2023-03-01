@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
         <title>Shankar Web Developer</title>
         <meta
           name="description"
-          content="Goutham sankar web developer ui/ux designer shankarg webdeveloper kerala India webdeveloper kerala react developer kerala google "
+          content="Goutham shankar web developer ui/ux designer shankarg webdeveloper kerala India webdeveloper kerala react developer kerala google "
         />
         <meta
           name="keywords"
@@ -27,8 +27,8 @@ function MyApp({ Component, pageProps }) {
         <meta name="msapplication-navbutton-color" content="#000000" />
         <meta name="apple-mobile-web-app-status-bar-style" content="#000000" />
         <link rel="apple-touch-icon" href="/icon-192x192.png" />
-        <meta name="author" content="GOUTHAM SANKAR" />
-        <meta name="description" content="Goutham sankar Portfolio website " />
+        <meta name="author" content="GOUTHAM SHANKAR" />
+        <meta name="description" content="Goutham shankar Portfolio website " />
         <link rel="icon" href="/favicon.png" />
         <link rel="manifest" href="/manifest.json" />
         <html lang="en"></html>
