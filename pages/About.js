@@ -36,9 +36,6 @@ function About() {
             <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goutham-shankar&" alt="goutham-shankar" /></p>
             <p className='box-content  mt-4 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20  font-mono'>{"<h2>"}</p>
 
-
-            <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goutham-shankar" alt="goutham-shankar" /></a> </p>
-
             <h2 className='inline-block ml-5 text-3xl font-bold text-white font-Mono'>Work</h2>
             <p className='box-content inline-block ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</h2>"}</p>
             <div className='mt-5 sm:ml-12'>
