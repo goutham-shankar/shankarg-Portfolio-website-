@@ -13,19 +13,17 @@ function Projects({ posts }) {
             <h2 className='container font-bold text-gray-400 sm:ml-2 font-Mono'>Some of my best Projects</h2>
             <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</p>"}</p>
         </div>
-        <div className="content-center gap-5 ml-5 grid-cols- h-50 sm:ml-20 sm:grid-col-2 sm:flex">
+        <div className="gap-5 grid md:grid-cols-3 ml-4   bg-transparent h-50  md:flex-1">
             {posts.map((post) => (
-                <div key={post.projectLink} className="max-w-sm mt-5 border border-gray-200 rounded-lg shadow-md dark:border-gray-300">
-                    <a href={post.projectLink} >
-                        <img className="rounded-t-lg " src={post.photo.url} alt="" />
+                <div key={post.projectLink} className="max-w-sm  mt-5 border hover:border-blue-100 border-gray-200 rounded-lg shadow-md dark:border-gray-300">
+                    <a href={post.projectLink}>
+                        <img className="rounded-t-lg hover:backdrop-blur " src={post.photo.url} alt="" />
+
                     </a>
-                    <div className="p-5">
+                    <div className="p-5 grid-cols-3 bg-transparent">
                         <a href={post.projectLink}>
-                            <h5 className="mb-2 ml-20 text-2xl font-bold tracking-tight text-gray-900 font-Mono dark:text-white">{post.title}</h5>
+                            <h5 className="mb-2 ml-20 text-2xl font-bold  bg-transparent font-Mono dark:text-white">{post.title}</h5>
                         </a>
-                        <p className="mb-3 font-bold text-center text-gray-400 font-Mono dark:text-gray-400">{post.excerpt}
-                        </p>
-                        <p className='font-semibold text-Mono dark:text-gray-400'>{post.content.text}</p>
 
                     </div>
                 </div>
