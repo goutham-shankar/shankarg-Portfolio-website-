@@ -17,7 +17,7 @@ import {
 
 export default function Home() {
   return (
-    <div >
+    <div  >
       <div className='mx-auto '>
 
         <p className='box-content h-auto mt-20 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h1>"}</p>
@@ -27,6 +27,7 @@ export default function Home() {
         <p className='box-content h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 mt-7 sm:ml-20 font-Rampart'>{"<p>"}</p>
         <p className='box-content inline-block h-auto space-x-10 font-bold text-gray-300 bg-transparent sm:mr-20 sm:ml-20 font-Mono'>Front End Developer / Ui Designer</p>
         <p className='box-content inline-block h-auto ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart sm:ml-20'> {"</p>"}</p>
+        
         <div className='space-x-5 ' >
           <p className='box-content h-auto mt-5 ml-2 space-x-10 text-lg font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart sm:ml-20'> {"<social>"}</p>
           <div className='ml-10'>
@@ -71,6 +72,7 @@ export default function Home() {
             </button>
 
           </div>
+          
 
 
         </div>

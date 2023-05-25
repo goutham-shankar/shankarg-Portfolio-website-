@@ -25,36 +25,20 @@ function About() {
                     I also have full-stack developer experience.
 
                 </p>
-                <p className='box-content ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</p>"}</p>
-                <div className='container w-96'>
-                    <p className='box-content mt-4 ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<div>"}</p>
-                    <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>Front End</h2>
-                    <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
-                        <div className="w-4/5 h-1 bg-blue-600 rounded-full" ></div>
-                    </div>
-                </div>
-                <div className='container mt-10 w-96'>
-                    <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>Back End</h2>
-                    <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
-                        <div className="w-3/5 h-1 bg-red-500 rounded-full" ></div>
-                    </div>
-                </div>
-                <div className='container mt-10 w-96'>
-                    <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>React</h2>
-                    <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
-                        <div className="w-4/5 h-1 rounded-full bg-violet-600" ></div>
-                    </div>
-                </div>
-                <div className='container mt-10 w-96'>
-                    <h2 className='container ml-5 font-bold text-gray-300 font-Mono'>Next Js</h2>
-                    <div className="w-full h-1 bg-gray-200 rounded-full dark:bg-gray-700">
-                        <div className="w-4/5 h-1 bg-green-600 rounded-full" ></div>
-                    </div>
-                </div>
-                <p className='box-content mt-4 ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</div>"}</p>
+
             </div>
 
-            <p className='box-content mt-4 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<h2>"}</p>
+
+
+            <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goutham-shankar&show_icons=true&locale=en" alt="goutham-shankar" /></p>
+            <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goutham-shankar&show_icons=true&locale=en&layout=compact" alt="goutham-shankar" /></p>
+
+            <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goutham-shankar&" alt="goutham-shankar" /></p>
+            <p className='box-content  mt-4 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20  font-mono'>{"<h2>"}</p>
+
+
+            <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goutham-shankar" alt="goutham-shankar" /></a> </p>
+
             <h2 className='inline-block ml-5 text-3xl font-bold text-white font-Mono'>Work</h2>
             <p className='box-content inline-block ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</h2>"}</p>
             <div className='mt-5 sm:ml-12'>
