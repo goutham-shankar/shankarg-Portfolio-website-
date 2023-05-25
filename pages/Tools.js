@@ -6,9 +6,10 @@ function Tools() {
     <>
       <div className='container '>
         <div className='container mx-auto '>
-
+       
+        
           <p className='box-content h-auto mt-12 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<h2>"}</p>
-          <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto ml-5 space-x-10 text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 font-Mono sm:text-6xl'>Tools</h1>
+          <h1 className='container box-content items-center inline-block w-auto h-auto mx-auto ml-5 space-x-10 text-5xl font-extrabold text-white bg-transparent sm:mr-20 sm:ml-20 font-Mono sm:text-6xl'>Tools<div className='  bg-transparent animate-spin hover:animate-none inline-block'>⚙️</div></h1>
           <p className='inline-block font-semibold text-gray-500 bg-transparent sm:mr-20 font-Rampart '>{"</h2>"}</p>
           <div className='ml-5'>
           <p className='box-content h-auto mt-5 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent sm:mr-20 sm:ml-20 font-Rampart'>{"<p>"}</p>

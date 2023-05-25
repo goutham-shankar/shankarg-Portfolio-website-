@@ -8,7 +8,7 @@ function About() {
         <div className='ml-5 mr-1 sm:ml-28'  >
             <div className='mt-12 sm:mr-36'>
                 <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<h2>"}</p>
-                <h2 className='box-content inline-block w-auto h-auto mx-auto space-x-10 text-5xl font-extrabold text-white bg-transparent sm:ml-2 font-Mono sm:text-6xl'>About</h2>
+                <h2 className='box-content inline-block w-auto h-auto mx-auto space-x-10 text-5xl font-extrabold text-white bg-transparent sm:ml-2 font-Mono sm:text-6xl'>About<div className='  bg-transparent  hover:animate-bounce inline-block'>👨‍💻</div></h2>
                 <p className='box-content inline-block ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</h2>"}</p>
                 <p className='box-content mt-4 ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<p>"}</p>
                 <h2 className='container font-bold text-gray-400 font-Mono'>I &apos; m Goutham Shankar a Indian based product designer with over 2 years of experience. I specialise in interface design for mobile and web-based applications with a focus on simplicity & usability. I &apos; m passionate about design and technology</h2>
@@ -215,7 +215,7 @@ function About() {
                     Personal Website, <span className=' text-emerald-600'>No Trackers</span><br />initialized
                 </li>
                 <li className='ml-10 font-mono font-semibold text-gray-400'>
-                    Website is Upto date as of <span className=' text-emerald-600'>June 2022</span>
+                    Website is Upto date as of <span className=' text-emerald-600'>May 2023</span>
                 </li>
 
                 <p className='box-content ml-2 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"</ul>"}</p>
