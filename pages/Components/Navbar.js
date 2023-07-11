@@ -6,7 +6,7 @@ function Navbar() {
     return (
         <div>
             <div className="  h-0.5 bg-gradient-to-r from-purple-500 to-pink-500"></div>
-            <nav className="px-1 py-2 bg-transparent bg-black rounded sm:px-4 ">
+            <nav className="px-1 py-2 bg-transparent bg-transparent rounded sm:px-4 ">
                 <div className="container flex flex-wrap justify-between mx-auto">
                     <div className="flex ">
                       
