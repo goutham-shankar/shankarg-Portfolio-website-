@@ -20,9 +20,9 @@ function About() {
                 <p className='box-content mt-4 ml-4 space-x-10 font-semibold text-gray-500 bg-transparent h-auhref sm:mr-20 font-Rampart'>{"<p>"}</p>
                 <p className='container font-bold text-gray-400 font-Mono'>
 
-                    I create successful responsive websites that are fast, easyuse, and built with best practices. The main area of my expertise is front-end development,HTML,CSS,JS,animations, and coding interactive layouts.
+                   As a front end web developer  I create successful responsive websites that are fast, easyuse, and built with best practices. The main area of my expertise is front-end development,HTML,CSS,JS,animations, and coding interactive layouts.
 
-                    I also have full-stack developer experience.
+                    
 
                 </p>
 
